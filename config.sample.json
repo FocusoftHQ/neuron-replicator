@@ -1,0 +1,10 @@
+[
+  {
+    "source": "git@github.com:your-org/source-repo-1.git",
+    "destination": "git@github.com:your-org/destination-repo-1.git"
+  },
+  {
+    "source": "git@github.com:your-org/source-repo-2.git",
+    "destination": "git@github.com:your-org/destination-repo-2.git"
+  }
+]
